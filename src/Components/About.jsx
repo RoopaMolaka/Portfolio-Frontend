@@ -1,6 +1,6 @@
 import React from "react";
 import MyImg from "../Images/RoopaImg.jpeg";
-import { FaArrowDown, FaLinkedin } from "react-icons/fa";
+import { FaArrowDown } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa6";
 import { SiVercel } from "react-icons/si";
 import { Link } from "react-router";
